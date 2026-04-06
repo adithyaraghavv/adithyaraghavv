@@ -75,7 +75,7 @@
 
 ---
 
-### ☁️ [SiriusXM — Scalable Cloud ETL Pipeline](https://github.com/adithyaraghav/siriusxm-etl-pipeline)
+### ☁️ [SiriusXM — Scalable Cloud ETL Pipeline](https://github.com/adithyaraghavv/Siriusxm-etl-pipeline)
 > Enterprise-scale ETL pipeline ingesting & transforming high-volume streaming data  
 > **Stack:** PySpark • AWS S3 • AWS Glue • Databricks • CloudWatch  
 > ✅ Built for SiriusXM — production-grade with incident response & data quality frameworks
