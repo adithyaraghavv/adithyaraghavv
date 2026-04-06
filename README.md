@@ -61,7 +61,7 @@
 
 ## 📌 Featured Projects
 
-### 🏥 [InsureBot — AI Insurance Policy Assistant](https://github.com/adithyaraghav/insurebot)
+### 🏥 [InsureBot — AI Insurance Policy Assistant](https://github.com/adithyaraghavv/insureBot)
 > Upload any insurance PDF → ask questions → get instant AI answers  
 > **Stack:** LangChain • Groq (LLaMA 3.1) • FAISS • HuggingFace Embeddings • Gradio  
 > ✅ RAG pipeline — answers grounded in your document, zero hallucinations
