@@ -68,7 +68,7 @@
 
 ---
 
-### 🔍 [AI-Powered Data Insight & Summary Engine](https://github.com/adithyaraghav/ai-data-insight-engine)
+### 🔍 [AI-Powered Data Insight & Summary Engine](https://github.com/adithyaraghavv/ai-data-insight-engine)
 > Compare two large datasets automatically → get AI-generated insights & visual summaries  
 > **Stack:** LangChain • PyTorch • NLP • Python • Matplotlib  
 > ✅ Replaced fully manual analysis workflow — reduced reporting effort significantly
