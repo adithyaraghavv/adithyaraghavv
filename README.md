@@ -61,7 +61,7 @@
 
 ## 📌 Featured Projects
 
-### [customer_churn_segmentio ]()
+### [customer_churn_segmention ](https://github.com/adithyaraghavv/customer-churn-segmentation)
 >  A complete marketing analytics system that segments customers and predicts churn — the kind of analysis used by agencies  for brands like **Starbucks, Uber, Delta and Hard Rock**.
 > **stack**  Scikit-learn • Seaborn • StandardScaler • KMeans• RandomForest  • Matplotlib  • pandas  • NumPy
 >  Build a data science system that automatically segments customers into meaningful groups and predicts which customers will churn - so the business can take targeted action BEFORE losing them. This directly translates to:
