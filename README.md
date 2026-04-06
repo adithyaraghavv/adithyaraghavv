@@ -61,6 +61,16 @@
 
 ## 📌 Featured Projects
 
+### [customer_churn_segmentio ]()
+>  A complete marketing analytics system that segments customers and predicts churn — the kind of analysis used by agencies  for brands like **Starbucks, Uber, Delta and Hard Rock**.
+> **stack**  Scikit-learn • Seaborn • StandardScaler • KMeans• RandomForest  • Matplotlib  • pandas  • NumPy
+>  Build a data science system that automatically segments customers into meaningful groups and predicts which customers will churn - so the business can take targeted action BEFORE losing them. This directly translates to:
+•	Reduced customer acquisition costs
+•	Higher customer lifetime value
+•	Better ROI on marketing campaigns
+•	Data-driven retention strategies
+
+
 ### 🏥 [InsureBot — AI Insurance Policy Assistant](https://github.com/adithyaraghavv/insureBot)
 > Upload any insurance PDF → ask questions → get instant AI answers  
 > **Stack:** LangChain • Groq (LLaMA 3.1) • FAISS • HuggingFace Embeddings • Gradio  
